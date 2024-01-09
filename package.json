@@ -1,0 +1,19 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "express js practice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node "
+  },
+  "keywords": [
+    "express",
+    "node",
+    "mango"
+  ],
+  "author": "Jamshid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
